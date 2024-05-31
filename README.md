@@ -27,4 +27,5 @@ The analysis was carried from the responses we got on the survey.  Some of the a
 # Data gathering
 A google form was created. The survey consisted of multiple-choice questions, and open-ended questions to gather both quantitative and qualitative data. Participants were asked to provide information such as age, gender, location, and occupation, as well as their opinions and experiences related to the topic of study."
 The data team created a google form to get the public opinion on health applications. The form was opened for 15 days. 
+
 Link to the form: https://docs.google.com/forms/d/e/1FAIpQLSe-3ZhNnOsTFfx7u3Gb8fnCGKSNuzL1NjHKvIB1XvoAJIdcCA/viewform
